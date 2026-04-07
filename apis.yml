@@ -7,10 +7,10 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Sustainability
   - Carbon
-  - Software
   - Linux Foundation
+  - Software
+  - Sustainability
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-
@@ -23,8 +23,8 @@ apis:
       API for accessing Green Software Foundation resources, standards, and tools for measuring and reducing the carbon emissions of software applications.
     humanURL: https://greensoftware.foundation/articles
     tags:
-      - Sustainability
       - Carbon
+      - Sustainability
     properties:
       - type: Documentation
         url: https://greensoftware.foundation/articles
