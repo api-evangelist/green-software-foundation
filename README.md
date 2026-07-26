@@ -17,10 +17,6 @@ The Green Software Foundation is a Linux Foundation project founded by Accenture
 
 ## APIs
 
-### Green Software Foundation API
-API for accessing Green Software Foundation resources, standards, and tools for measuring and reducing the carbon emissions of software applications.
-
-**Human URL:** [https://greensoftware.foundation/articles](https://greensoftware.foundation/articles)
 
 #### Tags:
  - Sustainability, Carbon
