@@ -41,6 +41,8 @@ url: >-
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: Website
+    url: https://www.greensoftware.foundation/
   - type: DomainSecurity
     url: security/green-software-foundation-domain-security.yml
   - type: LinkedIn
