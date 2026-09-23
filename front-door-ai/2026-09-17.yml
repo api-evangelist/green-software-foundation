@@ -1,0 +1,30 @@
+# Front Door AI Index — green-software-foundation — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: green-software-foundation
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.greensoftware.foundation
+  final_host: greensoftware.foundation
+  ownership: own
+  owner: green-software-foundation
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 23
+  host_score: 23
+  density: 16.31
+  words: 1410
+  tiers:
+    agentic: 2
+    core: 21
+    model: 0
+  ambiguous: 1
+  top_terms:
+    AI: 19
+    LLMs: 1
+    artificial intelligence: 1
+    embedding: 1
+    inference: 1
+    intelligence: 1
